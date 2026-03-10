@@ -56,7 +56,7 @@ Se emplean técnicas de **limpieza y transformación de datos**, **análisis exp
 ---
 
 ## Autor
-**Wilfredo Rojas** – Instructor y analista de datos en el programa One.
+**Natalia Puerto** 
 
 ---
 
