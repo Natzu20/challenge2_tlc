@@ -4,6 +4,7 @@
 Este proyecto analiza la **evasión de clientes (Churn)** en Telecom X, una empresa de telecomunicaciones. El objetivo es identificar patrones y factores que afectan la permanencia de los clientes, sirviendo como base para un análisis predictivo y estrategias de retención.
 
 Se emplean técnicas de **limpieza y transformación de datos**, **análisis exploratorio** y **visualización**, utilizando herramientas como Python, Pandas, Matplotlib y Plotly.
+
 ---
 
 ## Diccionario de datos 
